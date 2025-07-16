@@ -56,8 +56,8 @@ I’m constantly seeking to learn and improve technologies and tools that contri
 ---
 
 <div align="center">
-  <img width="450em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrenato1&layout=compact&theme=holi"/>
-  <img width="450em" alt="Status Github Gabriel Renato" src="https://github-readme-stats.vercel.app/api?username=gabrielrenato1&show_icons=true&theme=holi" />
+  <img width="45%" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrenato1&layout=compact&theme=holi"/>
+  <img width="45%" alt="Status Github Gabriel Renato" src="https://github-readme-stats.vercel.app/api?username=gabrielrenato1&show_icons=true&theme=holi" />
 </div>
 
 ## 📫 Contact
