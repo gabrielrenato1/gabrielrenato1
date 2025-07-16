@@ -53,6 +53,12 @@ I’m constantly seeking to learn and improve technologies and tools that contri
 
 ![Development Methodology](https://img.shields.io/badge/-Development%20Methodology-gray?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-%23F39C12?style=for-the-badge)
+---
+
+<div align="center">
+  <img width="450em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrenato1&layout=compact&theme=holi"/>
+  <img width="450em" alt="Status Github Gabriel Renato" src="https://github-readme-stats.vercel.app/api?username=gabrielrenato1&show_icons=true&theme=holi" />
+</div>
 
 ## 📫 Contact
 
