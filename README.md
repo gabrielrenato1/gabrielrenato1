@@ -22,7 +22,7 @@ I’m constantly seeking to learn and improve technologies and tools that contri
 
 ## 🔧 Stack
 
-![Language](https://img.shields.io/badge/-Linguagem-gray?style=for-the-badge)
+![Language](https://img.shields.io/badge/-Language-gray?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
