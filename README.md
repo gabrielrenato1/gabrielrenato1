@@ -10,7 +10,6 @@ Ao longo da minha carreira, desenvolvi habilidades sólidas na resolução efica
 Estou em constante busca por aprendizado e aprimoramento de tecnologias e ferramentas que contribuam para a entrega de soluções robustas e eficientes.
 
 ---
-
 🇺🇸
 Technology enthusiast for over 10 years, with more than 5 years of experience as a Back-End Developer. Currently focused on PHP, Laravel, and MySQL.
 
@@ -34,6 +33,7 @@ I’m constantly seeking to learn and improve technologies and tools that contri
 ![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Database](https://img.shields.io/badge/-Database-gray?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
